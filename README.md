@@ -18,8 +18,8 @@ The goal of this project is to evaluate whether the new CTA button text leads to
 
 ## Project Structure
 
-- `ab_test_analysis.ipynb`: The Jupyter notebook containing all code and analysis
-- `data/`: Folder containing the dataset used for analysis (or a link if hosted elsewhere)
+- `ABTesting.ipynb`: The Jupyter notebook containing all code and analysis
+- `controlexperiment.png`: The csv dataset used for analysis
 - `README.md`: This file
 
 ## Key Findings
@@ -48,13 +48,13 @@ pip install notebook
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ab-test-analysis.git
+   git clone https://github.com/richardrietdijk/AB_Testing.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ab-test-analysis
+   cd AB_Testing
    ```
 
 3. Launch Jupyter Notebook:
@@ -63,17 +63,7 @@ pip install notebook
    jupyter notebook
    ```
 
-4. Open `ab_test_analysis.ipynb` and run the cells to execute the analysis.
-
-## Data
-
-The dataset used for this analysis contains user interactions with the website during the A/B testing period. It includes information such as:
-
-- User ID
-- Group assignment (control or experimental)
-- Click-through behavior (binary: clicked or not clicked)
-
-Ensure that the data file is placed in the `data/` folder, or update the notebook to point to the correct data location.
+4. Open `ABTesting.ipynb` and run the cells to execute the analysis.
 
 ## Conclusion
 
