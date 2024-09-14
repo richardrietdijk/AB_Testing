@@ -6,6 +6,8 @@ This repository contains a Jupyter notebook that analyzes the results of an A/B 
 
 ## Overview
 
+![Alt text](controlexperiment.png)
+
 The goal of this project is to evaluate whether the new CTA button text leads to a statistically and practically significant increase in CTR. The analysis includes:
 
 - Data cleaning and preparation
