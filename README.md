@@ -19,7 +19,7 @@ The goal of this project is to evaluate whether the new CTA button text leads to
 ## Project Structure
 
 - `ABTesting.ipynb`: The Jupyter notebook containing all code and analysis
-- `controlexperiment.png`: The csv dataset used for analysis
+- `controlexperiment.png`: The csv dataset that was used for analysis. For this case study, this is a randomly generated file and does not contain actual user data.
 - `README.md`: This file
 
 ## Key Findings
